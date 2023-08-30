@@ -1,4 +1,4 @@
-🌐 WebTalkBot: Web-based GPT-4 Chatbot
+#� WebTalkBot: Web-based GPT-4 Chatbot
 
 ## Project Overview 🌟
 
@@ -21,7 +21,8 @@ WebTalkBot is a cutting-edge web-based chatbot powered by the GPT-4 API. Seamles
 - Personalization features based on user history.
 - Expand context memory for longer chat sessions
 
-  Usage Examples 🎯
+
+ Usage Examples 🎯
 
   // Asking about a website's content:
 User: "Tell me about the content on example.com"
