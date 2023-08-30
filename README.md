@@ -22,7 +22,7 @@ WebTalkBot is a cutting-edge web-based chatbot powered by the GPT-4 API. Seamles
 - Expand context memory for longer chat sessions
 
 
- Usage Examples 🎯
+## Usage Examples 🎯
 
   // Asking about a website's content:
 User: "Tell me about the content on example.com"
