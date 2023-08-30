@@ -1,4 +1,4 @@
-#� WebTalkBot: Web-based GPT-4 Chatbot
+## � WebTalkBot: Web-based GPT-4 Chatbot
 
 ## Project Overview 🌟
 
