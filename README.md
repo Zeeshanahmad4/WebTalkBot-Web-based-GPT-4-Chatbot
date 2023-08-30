@@ -24,7 +24,7 @@ WebTalkBot is a cutting-edge web-based chatbot powered by the GPT-4 API. Seamles
 
 ## Usage Examples 🎯
 
-- // **Asking about a website's content**:
+// Asking about a website's content:
 User: "Tell me about the content on example.com"
 WebTalkBot: "example.com is a tech blog that covers topics like..."
 
