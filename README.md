@@ -34,29 +34,6 @@ User: "What's the weather like today?"
 WebTalkBot: "Sorry, I don't have real-time data. Please check a reliable weather website."
 
 
-
-## Setup and Installation Instructions 🛠
-
-1. Clone the repository: `git clone https://github.com/yourusername/WebTalkBot.git`
-2. Navigate to the project directory: `cd WebTalkBot`
-3. Install required PHP dependencies (if any).
-4. Set up your GPT-4 API keys in `libs/gpt4_integration.php`.
-5. Host on a local or web server with PHP support.
-6. Access through a web browser and start chatting!
+Setup and Installation Instructions 🛠
 
 
-## Troubleshooting Tips 🩺
-
-- Ensure you've set up the correct API keys.
-- Check for server errors if the chatbot isn't responding.
-- Clear browser cache if recent changes aren't reflecting.
-- Ensure all PHP dependencies are correctly installed.
-
-
-  ## Contribution Guidelines 💡
-
-- Fork the repository and clone it locally.
-- Create a branch for your edits.
-- Write clear, concise commit messages.
-- Ensure your changes don't break existing functionalities.
-- Submit a pull request with a comprehensive description of changes.
