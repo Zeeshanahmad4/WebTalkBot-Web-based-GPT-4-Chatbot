@@ -1,0 +1,1 @@
+<?php // Implement security measures ?>

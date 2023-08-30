@@ -1,0 +1,1 @@
+<?php // Enhance chatbot responses ?>

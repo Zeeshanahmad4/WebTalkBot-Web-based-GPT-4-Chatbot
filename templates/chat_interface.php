@@ -1,0 +1,1 @@
+<?php // Chatbot interface template ?>

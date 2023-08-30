@@ -1,0 +1,1 @@
+<?php // Backend chat processing ?>

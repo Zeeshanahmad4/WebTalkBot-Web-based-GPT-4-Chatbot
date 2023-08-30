@@ -1,0 +1,1 @@
+<?php // Manage chat history and context ?>
