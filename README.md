@@ -29,19 +29,20 @@
 </div>
 
 ## Table of Contents
-1. [Project Overview](#project-overview-🌟)
-2. [Features](#features-✨)
-   - [Web-based Interface](#features-✨)
-   - [GPT-4 Integration](#features-✨)
-   - [Web Crawling](#features-✨)
-   - [Context Management](#features-✨)
-   - [Prompt Engineering](#features-✨)
-   - [High Security](#features-✨)
-3. [Future Enhancements](#future-enhancements-🚀)
-4. [Usage Examples](#usage-examples-🎯)
-5. [Setup and Installation Instructions](#setup-and-installation-instructions-🛠)
-6. [Troubleshooting Tips](#troubleshooting-tips-🩺)
-7. [Contribution Guidelines](#contribution-guidelines-💡)
+1. [Project Overview](#project-overview-)
+2. [Features](#features-)
+   - [Web-based Interface](#web-based-interface)
+   - [GPT-4 Integration](#gpt-4-integration)
+   - [Web Crawling](#web-crawling)
+   - [Context Management](#context-management)
+   - [Prompt Engineering](#prompt-engineering)
+   - [High Security](#high-security)
+3. [Future Enhancements](#future-enhancements-)
+4. [Usage Examples](#usage-examples-)
+5. [Setup and Installation Instructions](#setup-and-installation-instructions-)
+6. [Troubleshooting Tips](#troubleshooting-tips-)
+7. [Contribution Guidelines](#contribution-guidelines-)
+
 
 
 ## Project Overview 🌟
